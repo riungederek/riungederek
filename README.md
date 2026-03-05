@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I’m currently working on: AI-powered tools for MSMEs and financial systems, plus data projects at the intersection of economics and machine learning.<br>I’m currently learning: Machine learning systems, AI applications in finance and sustaiinable development, and building full-stack data products.<br>Studying CS and Applied problem solving at Minerva!
+I’m currently working on: AI-powered tools for MSMEs and financial systems, plus data projects at the intersection of economics and machine learning.<br>I’m currently learning: Machine learning systems, AI applications in finance and sustainable development, and building full-stack data products.<br>Studying CS and Applied problem solving at Minerva!
 
 
 ## 🌐 Socials:

@@ -1,6 +1,14 @@
 ## Hi there 👋
 # 💫 About Me:
-I’m currently working on: AI-powered tools for MSMEs and financial systems, plus data projects at the intersection of economics and machine learning.<br>I’m currently learning: Machine learning systems, AI applications in finance and sustainable development, and building full-stack data products.<br>Studying CS and Applied problem solving at Minerva!
+I’m currently learning: Machine learning systems, AI applications in finance and sustainable development, and building full-stack data products.<br>Studying CS and Applied problem solving at Minerva University!
+### Featured Projects
+
+**SIFA-AI-Powered Microfinance Risk Assessment Platform**  
+An intelligent lending tool that helps microfinance institutions evaluate borrower creditworthiness using machine learning and automated financial analysis. Built to support MSMEs in emerging markets with faster and fairer loan decisions.
+
+**Built with:** Python, XGBoost, Streamlit, LLaMA3, Pandas  
+**Status:** 🟢 Active Development  
+**Key Features:** ML-based loan risk prediction, automated borrower decision emails, financial data analysis dashboard
 
 
 ## 🌐 Socials:
